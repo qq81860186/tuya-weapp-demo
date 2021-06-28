@@ -1,5 +1,6 @@
 
-#### 注意：当前仓库将会废弃，新的涂鸦 Github 仓库地址参见： https://github.com/tuya/tuya-weapp-demo.
+#### 注意：This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
+当前仓库将会废弃，新的涂鸦 Github 仓库地址参见： https://github.com/tuya/tuya-weapp-demo.
 
 
 
